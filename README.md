@@ -1,4 +1,4 @@
-# CodeIT
+# CodeIT: Real-time collaborative code editor
 CodeIt is a **Real-time collaborative code editor** designed for developers, students, and teams to write, edit, and share code together seamlessly in the browser. Built using React.js, CodeMirror, Node.js, and Socket.IO, this web-based application allows multiple users to edit the same code file simultaneously, seeing changes in real-time.
 It supports syntax highlighting for popular programming languages, live code sharing via unique session links, and a minimal, clean user interface to enhance the collaborative coding experience.
 
